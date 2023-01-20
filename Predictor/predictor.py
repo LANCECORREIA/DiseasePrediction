@@ -28,8 +28,8 @@ disease_info = [
  {
   "Crop": "Pepper__bell",
   "Disease": "Bacterial_spot",
-  "Cause": " Bacterial spot occurs worldwide and is one of the most devastating diseases on pepper crops grown in warm, moist environments.  The pathogen can survive in association with seeds, either externally or internally as well as on specific weeds and later spreads through rain or overhead irrigation. It enters the plant through leaf pores and wounds. ",
-  "Treatment": " Bacterial spot occurs worldwide and is one of the most devastating diseases on pepper and tomato crops grown in warm, moist environments.  The pathogen can survive in association with seeds, either externally or internally as well as on specific weeds and later spreads through rain or overhead irrigation. It enters the plant through leaf pores and wounds. "
+  "Cause": "Bacterial spot is a widespread disease that causes significant damage to pepper crops grown in warm and moist regions. It can survive on seeds, both on the surface and inside, as well as on certain weeds and spreads through rain or irrigation. The pathogen infects the plant by entering through the leaf pores and any wounds on the plant.",
+  "Treatment": "Bacterial spot is a widespread disease that affects pepper and tomato crops grown in warm and humid conditions. The pathogen can survive in seeds, on weeds, and can spread through rain or overhead irrigation. The bacteria enters the plant through leaf pores and wounds, causing significant damage to the crop."
  },
  {
   "Crop": "Pepper__bell",
@@ -40,14 +40,14 @@ disease_info = [
  {
   "Crop": "Potato",
   "Disease": "Early_blight",
-  "Cause": "Early blight of potato is a disease caused by fungal species.Prolonged period of wetness on the plants.Circular dark brown rings or lesions on older leaves, that spread to stems and leaves gradually.",
-  "Treatment": " Varieties resistant to this disease are available. In general, late maturing varieties are more resistant than the earlier maturing varieties. Keep plants healthy; stressed plants are more predisposed to early blight. Avoid overhead irrigation. Do not dig tubers until they are fully mature in order to prevent damage."
+  "Cause": "Early blight of potato is a disease caused by a fungal species. It develops when the potato plants are exposed to prolonged periods of moisture. Symptoms of the disease include the appearance of circular dark brown rings or lesions on the older leaves, which can eventually spread to the stems and other leaves.",
+  "Treatment": "Varieties of potato that are resistant to early blight are available. Late-maturing varieties tend to be more resistant than early-maturing varieties. To prevent the disease, it's important to keep the plants healthy, as stress can make them more susceptible to the disease. Avoid overhead irrigation and wait until tubers are fully mature before digging them up to prevent damage."
  },
  {
   "Crop": "Potato",
   "Disease": "Late_blight",
-  "Cause": "Late blight of potato is a disease caused by oomycetes, which is a distant relative of fungi.The spores tend to spread in cool and wet conditions.Irregular-shaped lesions on the leaves, petioles and stems, the potato tubers start to rot, a whitish cottony growth of fungus is visible on the whole plant",
-  "Treatment": "Use disease-free seed potatoes. Keep cull\/compost piles away from potato growing areas. Destroy any volunteer potato plants. Keep tubers covered with soil throughout the season to prevent tuber infection. Remove infected tubers before storing to prevent the spread of disease in storage. Kill vines completely before harvest to avoid inoculation of the tubers during harvest. "
+  "Cause": "Late blight of potato is caused by oomycetes, which are similar to fungi. The spores of this disease thrive in cool and damp weather. Symptoms include irregular-shaped lesions on the leaves, stems, and petioles, as well as rot of the potato tubers. A white, cotton-like fungus can also be seen growing on the entire plant.",
+  "Treatment": "To prevent the spread of disease in potatoes, it is important to use disease-free seed potatoes. Keep the compost or cull piles away from the potato growing area, and destroy any volunteer potato plants that may appear. During the growing season, keep the tubers covered with soil to prevent infection. Before storing, remove any infected tubers to prevent the spread of disease. Additionally, it is important to kill the vines completely before harvest to avoid any potential contamination of the tubers during harvest."
  },
  {
   "Crop": "Potato",
@@ -58,56 +58,56 @@ disease_info = [
  {
   "Crop": "Tomato",
   "Disease": "Bacterial_spot",
-  "Cause": "These bacterial pathogens can be introduced into a garden on contaminated seed and transplants, which may or may not show symptoms.  The pathogens enter plants through natural openings (e.g., stomates), as well as through wounds. ",
-  "Treatment": "A plant with bacterial spot cannot be cured.  Remove symptomatic plants from the field or greenhouse to prevent the spread of bacteria to healthy plants."
+  "Cause": "Bacteria can be introduced to a garden through contaminated seeds and transplants that may or may not show signs of infection. They can infect plants through natural openings like stomates and through wounds on the plant.",
+  "Treatment": "Once a plant has bacterial spot, it cannot be treated and must be removed from the area to prevent the spread of the bacteria to other healthy plants."
  },
  {
   "Crop": "Tomato",
   "Disease": "Early_blight",
-  "Cause": " Early blight symptoms usually begin after the first fruits appear on tomato plants, starting with a few small, brown lesions on the bottom leaves. As the lesions grow, they take the shape of target-like rings, with dry, dead plant tissue in the center. The surrounding plant tissue turns yellow, then brown before the leaves die and fall off the plant.2 While early blight does not directly affect fruits, the loss of protective foliage can cause damage to fruits due to direct sun exposure. That condition is known as sun scald.",
-  "Treatment": "Once blight is positively identified, act quickly to prevent it from spreading. Remove all affected leaves and burn them or place them in the garbage. Mulch around the base of the plant with straw, wood chips or other natural mulch to prevent fungal spores in the soil from splashing on the plant."
+  "Cause": "Early blight of tomato generally starts to appear after the first fruits have formed, manifesting as small brown lesions on the lower leaves. These lesions will grow and take on a ring-like shape, with dry and dead tissue in the center. The surrounding plant tissue will turn yellow, then brown, before the leaves die and fall off the plant. The disease does not harm the fruit directly, but the loss of leaves can lead to sun damage on fruits, also known as sun scald.",
+  "Treatment": "If you identify that a plant has blight, it is important to take swift action to stop it from spreading. This can be done by removing all of the infected leaves and either burning them or disposing of them in the trash. Additionally, using straw, wood chips, or other types of natural mulch around the base of the plant can help to prevent fungal spores in the soil from coming into contact with the plant."
  },
  {
   "Crop": "Tomato",
   "Disease": "Late_blight",
-  "Cause": "Late blight can affect tomato plants at any point in the growing season and at any stage of growth. Symptoms appears at the edge of tomato leaves, with dark, damaged plant tissue that spreads through the leaves toward the stem. White mildew may grow on the lower leaf surface of the affected area. This type of blight progresses rapidly through plants in humid conditions,3 and if left untreated, can spread to fruits.",
-  "Treatment": "Once blight is positively identified, act quickly to prevent it from spreading. Remove all affected leaves and burn them or place them in the garbage. Mulch around the base of the plant with straw, wood chips or other natural mulch to prevent fungal spores in the soil from splashing on the plant."
+  "Cause": " Late blight of tomato is caused by oomycetes, which are similar to fungi. The spores of this disease thrive in cool and damp weather. Symptoms include irregular-shaped lesions on the leaves, stems, and petioles, as well as rot of the potato tubers. A white, cotton-like fungus can also be seen growing on the entire plant.",
+  "Treatment": "To prevent the spread of blight once it is identified, it is crucial to act fast. To do so, eliminate all leaves that have been affected by the disease by either burning them or disposing them in the garbage. To further prevent fungal spores in the soil from coming into contact with the plant, cover the base of the plant with natural mulch such as straw, wood chips or other materials."
  },
  {
   "Crop": "Tomato",
   "Disease": "Leaf_Mold",
-  "Cause": "Tomato leaf mold is caused by a fungal pathogen called Passalora fulva (syn. Cladosporium fulvum). It is an ascomycete fungus that lives on living tomato leaves. The fungus produces conidia that infect the lower surfaces of leaves.",
-  "Treatment": " Seed treatment with hot water (25 minutes at 122 °F or 50 °C) is recommended to avoid the pathogen on seeds.  "
+  "Cause": "Tomato leaf mold is a fungal disease caused by Passalora fulva (also known as Cladosporium fulvum), which is an ascomycete fungus that lives on the leaves of tomato plants. The fungus produces spores called conidia that infect the undersides of leaves.",
+  "Treatment": "It is recommended to use hot water to treat seeds (25 minutes at 122°F or 50°C) to prevent the growth of pathogens."
  },
  {
   "Crop": "Tomato",
   "Disease": "Septoria_leaf_spot",
-  "Cause": "Septoria leaf spot is caused by the fungus Septoria lycopersici. This fungus can attack tomatoes at any stage of development, but symptoms usually first appear on the older, lower leaves and stems when plants are setting fruit.",
-  "Treatment": "The effects of Septoria leaf spot can be minimized by following a multifaceted approach to disease management that includes sanitary, cultural, and chemical methods. It is very important to eliminate initial sources of inoculum by removing or destroying as much of the tomato debris as possible after harvest in the fall."
+  "Cause": "Septoria leaf spot is a disease caused by the fungus Septoria lycopersici. This fungus can infect tomatoes at any stage of growth, however, symptoms usually appear first on the older, lower leaves and stems when the plants are producing fruit.",
+  "Treatment": "To minimize the impact of Septoria leaf spot on tomatoes, it is important to adopt a comprehensive approach that includes maintaining good hygiene, implementing cultural practices, and using chemical controls. One key step is to remove or dispose of all tomato plant debris after the fall harvest to eliminate sources of the pathogen."
  },
  {
   "Crop": "Tomato",
   "Disease": "Spider_mites_Two_spotted_spider_mite",
-  "Cause": "Tomato red spider mite feeding causes whitening or yellowing of leaves, which then dry out and eventually fall off. In the case of severe attacks, plant damage progresses very quickly, and hosts may die within 3–5 weeks, if no management actions are taken.",
-  "Treatment": "Spider mite populations are held down in cool conditions early in the season by various predators such as pirate and big-eyed bugs. Predator mites are effective predators of spider mites and are available."
+  "Cause": "The tomato red spider mite feeds on the leaves of tomato plants, causing them to turn yellow or white, dry out, and ultimately fall off. In instances of severe infestation, the plant can be significantly damaged or even killed in as little as 3 to 5 weeks if no action is taken to manage the problem.",
+  "Treatment": "Cool weather early in the growing season can help control spider mite populations by promoting the activity of predators such as pirate and big-eyed bugs. Additionally, using predator mites as a biological control measure can also be effective in controlling spider mite populations."
  },
  {
   "Crop": "Tomato",
   "Disease": "Target_spot",
-  "Cause": "Target spot of tomato caused by Corynespora cassiicola, is a serious foliar disease of both greenhouse and field grown tomatoes. The field disease is limited to the tropical and subtropical regions of the world.",
-  "Treatment": "Remove old plant debris at the end of the growing season; otherwise, the spores will travel from debris to newly planted tomatoes in the following growing season, thus beginning the disease anew. Dispose of the debris properly and don’t place it on your compost pile unless you’re sure your compost gets hot enough to kill the spores."
+  "Cause": "Target spot on tomato is a severe leaf disease caused by Corynespora cassiicola, which affects both greenhouse and field-grown tomatoes. The disease primarily occurs in tropical and subtropical regions of the world.",
+  "Treatment": "To prevent the spread of disease, it is important to clear away old plant debris at the end of the growing season. If left in place, the spores on the debris can infect new tomato plants the following year. Proper disposal methods such as bagging and sending to landfill or burning is important. And also, ensure that the compost pile reaches high enough temperatures to kill the spores before adding the debris to it."
  },
  {
   "Crop": "Tomato",
   "Disease": "Tomato_YellowLeaf_Curl_Virus",
-  "Cause": "Nutrient Deficiency is a Likely Cause. The most common reason why the leaves on established tomato plants turn yellow is a lack of nutrients in the soil. Tomatoes are extremely heavy feeders and require plenty of nutrients to grow healthy and be fruitful",
-  "Treatment": "Management of TYLCV includes reducing viral inoculum by destroying crop residues, using reflective mulches to repel the vector in early stages of crop growth, planting TYLCV-resistant varieties when appropriate, and treating plants with a combination of at-plant, drip injected, and foliar insecticides"
+  "Cause": "A nutrient deficiency is a likely cause of yellowing leaves on established tomato plants. Tomatoes are heavy feeders and require a significant amount of nutrients to grow properly and produce fruit. A lack of these nutrients in the soil can lead to yellowing leaves.",
+  "Treatment": "To manage Tomato yellow leaf curl virus (TYLCV), it is important to reduce the amount of the virus present in the environment by removing or destroying crop residues. Reflective mulches can also be used to repel the insect vector during early stages of crop growth. Using TYLCV-resistant varieties can also be effective. Additionally, using a combination of insecticides at planting, through drip irrigation and as foliar sprays can help to control the insect vector."
  },
  {
   "Crop": "Tomato",
   "Disease": "Tomat_mosaic_virus",
-  "Cause": "The tomato potyviruses are transmitted plant-to-plant by many species of aphids. Aphids only retain the ability to transmit these viruses for very short periods of time (minutes to a few hours). Thus, spread is often very rapid and localized.",
-  "Treatment": "Once plants are infected, there is no cure for mosaic viruses. Because of this, prevention is key! However, if plants in your garden do show symptoms of having mosaic viruses, here’s how to minimize the damage: Remove all infected plants and destroy them. Do NOT put them in the compost pile, as the virus may persist in infected plant matter. Burn infected plants or throw them out with the garbage."
+  "Cause": "Tomato potyviruses are spread from plant to plant by various species of aphids. The transmission time for these viruses is short, lasting only minutes to a few hours, thus the spread of the disease is often fast and confined to a specific area.",
+  "Treatment": "As there is no cure for mosaic viruses once plants are infected, the best approach is to prevent the infection from occurring in the first place. However, if plants in the garden do show symptoms of mosaic virus, the damage can be minimized by removing and destroying all infected plants. It is important to not put them in the compost pile as the virus can persist in infected plant matter. The best option is to burn the infected plants or dispose of them in the garbage."
  },
  {
   "Crop": "Tomato",
