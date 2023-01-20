@@ -39,7 +39,7 @@ def bag_of_words(sentence):
 def predict_class(sentence):
     bag = bag_of_words(sentence)
     res = model.predict(np.array([bag]))[0]
-    results = [[i, r] for i, r in enumerate(res) if r > 0.75]
+    results = [[i, r] for i, r in enumerate(res)]
     print(results)
     if results:
         results.sort(key=lambda x: x[1], reverse=True)
