@@ -50,7 +50,7 @@ def predict_class(sentence):
 
 def get_response(intent, intents_json):
     if intent == "":
-        return "Sorry me no English"
+        return "Sorry I cant answer that."
     tag = intent
     list_of_intents = intents_json["intents"]
     for i in list_of_intents:
