@@ -1,6 +1,6 @@
 import keras.utils as image
 import numpy as np
-from tensorflow.keras.models import load_model
+from keras.models import load_model
 import os
 from django.conf import settings
 
