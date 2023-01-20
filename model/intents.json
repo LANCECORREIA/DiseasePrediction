@@ -21,9 +21,7 @@
                     "How hot will it be today?"
                 ],
                 "responses": [
-                    "I'm sorry, I am not able to provide weather forecast, you can check your local weather channel or website.",
-                    "I'm sorry, I am not able to provide weather forecast, you can check your local weather channel or website.",
-                    "I'm sorry, I am not able to provide weather forecast, you can check your local weather channel or website."
+                    "I'm sorry, currently this service is not available, you can check sometime later."
                 ]
             },
             {
@@ -34,9 +32,9 @@
                     "Will the price of soybeans go up in the next six months?"
                 ],
                 "responses": [
-                    "I'm sorry, I am not able to provide market prices, you can check your local market or online commodity trading platforms.",
-                    "I'm sorry, I am not able to provide market prices, you can check your local market or online commodity trading platforms.",
-                    "I'm sorry, I am not able to provide market prices, you can check your local market or online commodity trading platforms."
+                    "The currentrate of wheat is $5.50 per bushel.",
+                    "The prices of corn have increased by 10% in the last month.",
+                    "Yes the prices of Soyabean will go up by 20% in the next sixth months."
                 ]
             },
             {
