@@ -9,6 +9,7 @@ import numpy as np
 
 import nltk
 from nltk.stem import WordNetLemmatizer
+from englisttohindi.englisttohindi import EngtoHindi
 
 from keras.models import load_model
 
@@ -50,12 +51,12 @@ def predict_class(sentence):
 
 def get_response(intent, intents_json):
     if intent == "":
-        return "Sorry I cant answer that."
+        return EngtoHindi("Sorry I cant answer that.").convert
     tag = intent
     list_of_intents = intents_json["intents"]
     for i in list_of_intents:
         if i["tag"] == tag:
-            return random.choice(i["responses"])
+            return EngtoHindi(random.choice(i["responses"])).convert
 
 
 if __name__ == "__main__":
