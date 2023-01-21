@@ -30,7 +30,8 @@ def get_prediction(request):
 @csrf_exempt
 @api_view(["POST"])
 def chatbot(request):
-    message = request.data.get("message")
+    message = request.data.get("data")
+    print(message)
     intents = json.loads(
         open(os.path.join(settings.BASE_DIR, "model/intents.json")).read()
     )
